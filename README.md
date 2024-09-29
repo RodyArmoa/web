@@ -1,2 +1,2 @@
 # web
-Web de presentación de mi porfolio, está en progreso.
+Web de presentación de mi porfolio, está en proceso...
